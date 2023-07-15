@@ -1,0 +1,24 @@
+{
+  "name": "cypress-ebac-modulo11",
+  "version": "1.0.0",
+  "description": "Exercício sobre Automação UI do módulo 11 do curso de Testes de Software da EBAC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eulucasilva/cypress-ebac-modulo11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eulucasilva/cypress-ebac-modulo11/issues"
+  },
+  "homepage": "https://github.com/eulucasilva/cypress-ebac-modulo11#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.14.0"
+  }
+}
